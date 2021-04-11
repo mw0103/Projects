@@ -1,0 +1,8 @@
+Name of Book	Stock Number	Classification	Price	Count
+Having Fun With C	1234	613		29.95	10
+More Fun With C++	2345	613		29.95	15
+Geeks Guide to C	3456	316		24.95	15
+Oh Say Can You C	4567	316		19.95	20
+C++ Code Secrets	5678	316		24.95	12
+Harry Potter Coding	6349	418		49.99	10
+C  Spot  Program	9876	613		15.95	12

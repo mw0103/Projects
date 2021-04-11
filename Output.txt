@@ -1,0 +1,70 @@
+Your Record is being created
+C++ Code Secrets                123     613     43.75   19
+C  Spot  Program                234     316     32.75   18
+Geeks Guide to C                345     613     65.55   23
+When You C Me Coming            456     613     54.75   24
+More Fun With C++               567     613     32.55   25
+Having Fun With C               678     316     43.55   20
+The C++ Programming Language            765     316     65.75   36
+C++ for Dummies         876     316     33.25   37
+Oh Say Can You C                890     613     54.55   45
+C++ for Geniuses                987     613     44.25   29
+Enter the stock number in the inventory to delete: 234
+C++ Code Secrets                123     613     43.75   19
+Geeks Guide to C                345     613     65.55   23
+When You C Me Coming            456     613     54.75   24
+More Fun With C++               567     613     32.55   25
+Having Fun With C               678     316     43.55   20
+The C++ Programming Language            765     316     65.75   36
+C++ for Dummies         876     316     33.25   37
+Oh Say Can You C                890     613     54.55   45
+C++ for Geniuses                987     613     44.25   29
+Enter the stock number to search for: 345
+Geeks Guide to C                345     613     65.55   23
+Enter minimum price to search for: 50
+Enter the maximum price to search for: 70
+Geeks Guide to C                345     613     65.55   23
+When You C Me Coming            456     613     54.75   24
+Oh Say Can You C                890     613     54.55   45
+The C++ Programming Language            765     316     65.75   36
+Enter a classification to search for: 613
+More Fun With C++               567     613     32.55   25
+Geeks Guide to C                345     613     65.55   23
+C++ Code Secrets                123     613     43.75   19
+When You C Me Coming            456     613     54.75   24
+Oh Say Can You C                890     613     54.55   45
+C++ for Geniuses                987     613     44.25   29
+Enter a stock number to get the inventory for that item on file:
+567
+25Number in stock: 25
+Would you like to create and add another book to the inventory? Press 1 to add 2 to exit
+1
+C++ Code Secrets                123     613     43.75   19
+Geeks Guide to C                345     613     65.55   23
+When You C Me Coming            456     613     54.75   24
+More Fun With C++               567     613     32.55   25
+Having Fun With C               678     316     43.55   20
+The C++ Programming Language            765     316     65.75   36
+C++ for Dummies         876     316     33.25   37
+Oh Say Can You C                890     613     54.55   45
+C++ for Geniuses                987     613     44.25   29
+Enter the name of the book: Madison Coding Secretes
+Enter the stock number: 234
+Enter the classification number: 316
+Enter the cost of the book: 32.75
+Enter the amount of this book to add: 18
+Would you like to create and add another book to the inventory? Press 1 to add 2 to exit
+2
+C++ Code Secrets                123     613     43.75   19
+Madison Coding Secretes         234     316     32.75   18
+Geeks Guide to C                345     613     65.55   23
+When You C Me Coming            456     613     54.75   24
+More Fun With C++               567     613     32.55   25
+Having Fun With C               678     316     43.55   20
+The C++ Programming Language            765     316     65.75   36
+C++ for Dummies         876     316     33.25   37
+Oh Say Can You C                890     613     54.55   45
+C++ for Geniuses                987     613     44.25   29
+
+C:\Users\12566\source\repos\unsorted data type project\Debug\unsorted data type project.exe (process 16912) exited with code 0.
+Press any key to close this window . . .
